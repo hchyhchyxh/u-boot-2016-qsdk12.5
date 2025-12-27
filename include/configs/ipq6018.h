@@ -366,6 +366,7 @@ extern loff_t board_env_size;
 #define CONFIG_ARMV7_PSCI
 #define CONFIG_IPQ_ELF_AUTH
 #define IPQ_UBI_VOL_WRITE_SUPPORT
+#define CONFIG_HTTPD
 #define CONFIG_IPQ_TZT
 #define CONFIG_IPQ_FDT_FIXUP
 

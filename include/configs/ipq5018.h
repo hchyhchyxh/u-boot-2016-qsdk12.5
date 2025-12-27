@@ -442,4 +442,5 @@ extern loff_t board_env_size;
 #define CONFIG_NAME_MAX_LEN	32
 #endif
 
+#define CONFIG_HTTPD
 #endif /* _IPQ5018_H */

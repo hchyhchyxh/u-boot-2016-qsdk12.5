@@ -511,5 +511,6 @@ extern loff_t board_env_size;
 #define CONFIG_NAME_MAX_ENTRIES	6
 #define CONFIG_NAME_MAX_LEN	32
 #endif
+#define CONFIG_HTTPD
 
 #endif /* _IPQ5332_H */

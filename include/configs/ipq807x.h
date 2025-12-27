@@ -354,6 +354,7 @@ extern loff_t board_env_size;
 #define CONFIG_ARMV7_PSCI
 #undef CONFIG_IPQ_ROOTFS_AUTH
 #define CONFIG_SILENT_CONSOLE
+#define CONFIG_HTTPD
 
 #define CONFIG_LIST_OF_CONFIG_NAMES_SUPPORT
 
